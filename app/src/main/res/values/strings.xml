@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Tracker</string>
+    <string name="add_task">Add new task</string>
+    <string-array name="activity_types">
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Other</item>
+        <item>Fitness</item>
+        <item>Study</item>
+        <item>Hobbies</item>
+        <item>Social</item>
+    </string-array>
+</resources>
